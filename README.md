@@ -30,10 +30,9 @@ TOKEN=your_bot_token_from_BotFather
 ```bash
 python bot.py
 ```
-
 ## Bot commands:
-/start - start working with the bot
-/search_book - search book by title
+- /start - start working with the bot
+- /search_book - search book by title
 
 ## How it works:
 1. Start the bot with /start command
